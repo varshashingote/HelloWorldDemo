@@ -20,6 +20,7 @@ namespace HelloWorldDemo
 
             Console.WriteLine("this is local line1");
             Console.WriteLine("this is lacallly");
+            Console.writeLine("This is remotlly");
             Console.ReadLine();
             
         }
